@@ -1,0 +1,35 @@
+D:\HAMID\bin\box.png
+D:\HAMID\bin\Example.SURFFeature.exe
+D:\HAMID\bin\Example.SURFFeature.pdb
+D:\HAMID\Ash Thesis\SURFFeature\obj\Debug\ResolveAssemblyReference.cache
+D:\HAMID\Ash Thesis\SURFFeature\obj\Debug\Example.SURFFeature.exe
+D:\HAMID\Ash Thesis\SURFFeature\obj\Debug\Example.SURFFeature.pdb
+D:\bin\box.png
+D:\bin\Example.SURFFeature.exe
+D:\bin\Example.SURFFeature.pdb
+D:\HAMID\Ash Thesis\SURFFeature\bin\box.png
+D:\HAMID\Ash Thesis\SURFFeature\bin\Example.SURFFeature.exe
+D:\HAMID\Ash Thesis\SURFFeature\bin\Example.SURFFeature.pdb
+D:\HAMID\Ash Thesis\SURFFeature\bin\Emgu.CV.dll
+D:\HAMID\Ash Thesis\SURFFeature\bin\Emgu.CV.UI.dll
+D:\HAMID\Ash Thesis\SURFFeature\bin\Emgu.Util.dll
+D:\HAMID\Ash Thesis\SURFFeature\bin\ZedGraph.dll
+D:\HAMID\Ash Thesis\SURFFeature\bin\Emgu.CV.xml
+D:\HAMID\Ash Thesis\SURFFeature\bin\Emgu.Util.xml
+D:\HAMID\Ash Thesis\SURFFeature\bin\Emgu.CV.UI.xml
+D:\ms\Thesis stuff\Brand Logo Detection\SURFFeature\obj\Debug\Example.SURFFeature.exe
+D:\ms\Thesis stuff\Brand Logo Detection\SURFFeature\obj\Debug\Example.SURFFeature.pdb
+D:\ms\Thesis stuff\Brand Logo Detection\SURFFeature\bin\box.png
+D:\ms\Thesis stuff\Brand Logo Detection\SURFFeature\bin\Example.SURFFeature.exe
+D:\ms\Thesis stuff\Brand Logo Detection\SURFFeature\bin\Example.SURFFeature.pdb
+D:\ms\Thesis stuff\Brand Logo Detection\SURFFeature\bin\Emgu.CV.dll
+D:\ms\Thesis stuff\Brand Logo Detection\SURFFeature\bin\Emgu.CV.UI.dll
+D:\ms\Thesis stuff\Brand Logo Detection\SURFFeature\bin\Emgu.Util.dll
+D:\ms\Thesis stuff\Brand Logo Detection\SURFFeature\bin\ZedGraph.dll
+D:\ms\Thesis stuff\Brand Logo Detection\SURFFeature\bin\Emgu.CV.xml
+D:\ms\Thesis stuff\Brand Logo Detection\SURFFeature\bin\Emgu.Util.xml
+D:\ms\Thesis stuff\Brand Logo Detection\SURFFeature\bin\Emgu.CV.UI.xml
+D:\ms\Thesis stuff\Brand Logo Detection\SURFFeature\obj\Debug\ResolveAssemblyReference.cache
+D:\ms\Thesis stuff\Brand Logo Detection\SURFFeature\bin\box_in_scene.png
+D:\ms\Thesis stuff\Sandbox\SURFFeature\obj\Debug\Example.SURFFeature.exe
+D:\ms\Thesis stuff\Sandbox\SURFFeature\obj\Debug\Example.SURFFeature.pdb

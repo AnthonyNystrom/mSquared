@@ -1,0 +1,7 @@
+C:\Emgu\libemgucv-windows-x64-2.2.1.1150\bin\box.png
+C:\Emgu\libemgucv-windows-x64-2.2.1.1150\bin\box_in_scene.png
+C:\Emgu\libemgucv-windows-x64-2.2.1.1150\bin\Example.SURFFeature.exe
+C:\Emgu\libemgucv-windows-x64-2.2.1.1150\bin\Example.SURFFeature.pdb
+C:\Emgu\libemgucv-windows-x64-2.2.1.1150\Emgu.CV.Example\SURFFeature\obj\Debug\ResolveAssemblyReference.cache
+C:\Emgu\libemgucv-windows-x64-2.2.1.1150\Emgu.CV.Example\SURFFeature\obj\Debug\Example.SURFFeature.exe
+C:\Emgu\libemgucv-windows-x64-2.2.1.1150\Emgu.CV.Example\SURFFeature\obj\Debug\Example.SURFFeature.pdb
